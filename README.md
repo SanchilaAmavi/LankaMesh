@@ -156,7 +156,7 @@ Contributions are welcome. If you want to improve the firmware, expand the mobil
 
 ## 📌 Summary
 
-LankaMesh is more than a prototype — it is a practical foundation for dependable communication during emergencies, especially in areas with limited or damaged infrastructure.
+LankaMesh is more than a prototype - it is a practical foundation for dependable communication during emergencies, especially in areas with limited or damaged infrastructure.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:9333EA,100:6D28D9&height=100&section=footer" width="100%"/>
 
