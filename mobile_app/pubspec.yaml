@@ -1,0 +1,16 @@
+name: lankamesh_mobile
+description: LankaMesh mobile companion app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  shared_preferences: ^2.5.5
+
+flutter:
+  uses-material-design: true
