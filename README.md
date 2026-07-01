@@ -1,3 +1,4 @@
+
 # lankamesh_mobile
 
 A new Flutter project.
@@ -15,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# LankaMesh
+
+LANKAMESH is a LoRa-based disaster communication system that enables emergency alerts, location sharing, and offline messaging using ESP32-S3, GPS6MV2 and a Flutter mobile app.
+
+
